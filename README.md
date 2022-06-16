@@ -22,3 +22,5 @@ Luego de utilizar el código (Sea el bubble sort o el insertion sort) se indicar
 
 
 *El tiempo del algoritmo Bubble Sort para n = 20000 es de: 14.019510984420776
+
+# Para poder ver los gráficos ingresar al PDF.
